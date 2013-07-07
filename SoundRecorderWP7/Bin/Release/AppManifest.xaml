@@ -1,0 +1,17 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="SoundRecorderWP8" EntryPointType="SoundRecorderWP7.App" RuntimeVersion="4.7.50308.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="SoundRecorderWP8" Source="SoundRecorderWP8.dll" />
+    <AssemblyPart x:Name="AgiliTrain.PhoneyTools" Source="AgiliTrain.PhoneyTools.dll" />
+    <AssemblyPart x:Name="AgiliTrain.PhoneyTools.Microphone" Source="AgiliTrain.PhoneyTools.Microphone.dll" />
+    <AssemblyPart x:Name="AgiliTrain.PhoneyTools.Net" Source="AgiliTrain.PhoneyTools.Net.dll" />
+    <AssemblyPart x:Name="AldarIT.SuperAds.AdProviders.AdMob" Source="AldarIT.SuperAds.AdProviders.AdMob.dll" />
+    <AssemblyPart x:Name="AldarIT.SuperAds" Source="AldarIT.SuperAds.dll" />
+    <AssemblyPart x:Name="Coding4Fun.Phone.Controls" Source="Coding4Fun.Phone.Controls.dll" />
+    <AssemblyPart x:Name="Coding4Fun.Phone.Controls.Toolkit" Source="Coding4Fun.Phone.Controls.Toolkit.dll" />
+    <AssemblyPart x:Name="Coding4Fun.Phone.Site.Controls" Source="Coding4Fun.Phone.Site.Controls.dll" />
+    <AssemblyPart x:Name="Google.AdMob.Ads.WindowsPhone7" Source="Google.AdMob.Ads.WindowsPhone7.dll" />
+    <AssemblyPart x:Name="Microsoft.Phone.Controls" Source="Microsoft.Phone.Controls.dll" />
+    <AssemblyPart x:Name="Microsoft.Phone.Controls.Toolkit" Source="Microsoft.Phone.Controls.Toolkit.dll" />
+    <AssemblyPart x:Name="SilverlightMicrophoneSample" Source="SilverlightMicrophoneSample.dll" />
+  </Deployment.Parts>
+</Deployment>

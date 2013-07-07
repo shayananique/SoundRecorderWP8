@@ -1,0 +1,189 @@
+C:\Users\v-digkan\Desktop\SoundRecorderWP7\SoundRecorderWP7\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\v-digkan\Desktop\SoundRecorderWP7\SoundRecorderWP7\obj\Debug\App.g.i.cs
+C:\Users\v-digkan\Desktop\SoundRecorderWP7\SoundRecorderWP7\obj\Debug\Help.g.i.cs
+C:\Users\v-digkan\Desktop\SoundRecorderWP7\SoundRecorderWP7\obj\Debug\MainPage.g.i.cs
+C:\Users\v-digkan\Desktop\SoundRecorderWP7\SoundRecorderWP7\obj\Debug\SavedSounds.g.i.cs
+C:\Users\v-digkan\Desktop\SoundRecorderWP7\SoundRecorderWP7\obj\Debug\SoundRecorderWP7.g.resources
+C:\Users\v-digkan\Desktop\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\appbar.cancel.rest.png
+C:\Users\v-digkan\Desktop\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\ApplicationIcon.png
+C:\Users\v-digkan\Desktop\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\Background.png
+C:\Users\v-digkan\Desktop\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\Images\blank.png
+C:\Users\v-digkan\Desktop\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\Images\microphone.png
+C:\Users\v-digkan\Desktop\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\Images\play.png
+C:\Users\v-digkan\Desktop\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\Images\record.png
+C:\Users\v-digkan\Desktop\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\Images\speaker.png
+C:\Users\v-digkan\Desktop\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\Images\stop.png
+C:\Users\v-digkan\Desktop\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\SoundRecorderWP7.dll
+C:\Users\v-digkan\Desktop\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\SoundRecorderWP7.pdb
+C:\Users\v-digkan\Desktop\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\AppManifest.xaml
+C:\Users\v-digkan\Desktop\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\SoundRecorderWP7.xap
+C:\Users\v-digkan\Desktop\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\Coding4Fun.Phone.Controls.dll
+C:\Users\v-digkan\Desktop\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\Coding4Fun.Phone.Controls.Toolkit.dll
+C:\Users\v-digkan\Desktop\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\Coding4Fun.Phone.Site.Controls.dll
+C:\Users\v-digkan\Desktop\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\AgiliTrain.PhoneyTools.pdb
+C:\Users\v-digkan\Desktop\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\AgiliTrain.PhoneyTools.Microphone.pdb
+C:\Users\v-digkan\Desktop\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\AgiliTrain.PhoneyTools.Net.pdb
+C:\Users\v-digkan\Desktop\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\Google.AdMob.Ads.WindowsPhone7.xml
+C:\Users\v-digkan\Desktop\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\v-digkan\Desktop\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\v-digkan\Desktop\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\SilverlightMicrophoneSample.pdb
+C:\Users\v-digkan\Desktop\SoundRecorderWP7\SoundRecorderWP7\obj\Debug\SoundRecorderWP7.dll
+C:\Users\v-digkan\Desktop\SoundRecorderWP7\SoundRecorderWP7\obj\Debug\SoundRecorderWP7.pdb
+C:\Users\v-digkan\Desktop\SoundRecorderWP7\SoundRecorderWP7\obj\Debug\XapCacheFile.xml
+C:\Projects\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\appbar.cancel.rest.png
+C:\Projects\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\ApplicationIcon.png
+C:\Projects\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\Background.png
+C:\Projects\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\Images\blank.png
+C:\Projects\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\Images\microphone.png
+C:\Projects\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\Images\play.png
+C:\Projects\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\Images\record.png
+C:\Projects\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\Images\speaker.png
+C:\Projects\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\Images\stop.png
+C:\Projects\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\SoundRecorderWP7.dll
+C:\Projects\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\SoundRecorderWP7.pdb
+C:\Projects\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\AppManifest.xaml
+C:\Projects\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\SoundRecorderWP7.xap
+C:\Projects\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\Coding4Fun.Phone.Controls.dll
+C:\Projects\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\Coding4Fun.Phone.Controls.Toolkit.dll
+C:\Projects\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\Coding4Fun.Phone.Site.Controls.dll
+C:\Projects\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\AgiliTrain.PhoneyTools.pdb
+C:\Projects\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\AgiliTrain.PhoneyTools.Microphone.pdb
+C:\Projects\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\AgiliTrain.PhoneyTools.Net.pdb
+C:\Projects\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\Google.AdMob.Ads.WindowsPhone7.xml
+C:\Projects\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Projects\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Projects\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\SilverlightMicrophoneSample.pdb
+C:\Projects\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\obj\Debug\App.g.i.cs
+C:\Projects\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\obj\Debug\Help.g.i.cs
+C:\Projects\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\obj\Debug\MainPage.g.i.cs
+C:\Projects\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\obj\Debug\SavedSounds.g.i.cs
+C:\Projects\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\obj\Debug\SoundRecorderWP7.g.resources
+C:\Projects\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\obj\Debug\SoundRecorderWP7.dll
+C:\Projects\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\obj\Debug\SoundRecorderWP7.pdb
+C:\Projects\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\obj\Debug\XapCacheFile.xml
+C:\Users\Shayan Anique\Desktop\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\appbar.cancel.rest.png
+C:\Users\Shayan Anique\Desktop\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\ApplicationIcon.png
+C:\Users\Shayan Anique\Desktop\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\Background.png
+C:\Users\Shayan Anique\Desktop\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\Images\blank.png
+C:\Users\Shayan Anique\Desktop\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\Images\microphone.png
+C:\Users\Shayan Anique\Desktop\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\Images\play.png
+C:\Users\Shayan Anique\Desktop\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\Images\record.png
+C:\Users\Shayan Anique\Desktop\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\Images\speaker.png
+C:\Users\Shayan Anique\Desktop\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\Images\stop.png
+C:\Users\Shayan Anique\Desktop\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\SoundRecorderWP7.dll
+C:\Users\Shayan Anique\Desktop\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\SoundRecorderWP7.pdb
+C:\Users\Shayan Anique\Desktop\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\AppManifest.xaml
+C:\Users\Shayan Anique\Desktop\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\Coding4Fun.Phone.Controls.dll
+C:\Users\Shayan Anique\Desktop\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\Coding4Fun.Phone.Controls.Toolkit.dll
+C:\Users\Shayan Anique\Desktop\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\Coding4Fun.Phone.Site.Controls.dll
+C:\Users\Shayan Anique\Desktop\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Shayan Anique\Desktop\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\obj\Debug\App.g.i.cs
+C:\Users\Shayan Anique\Desktop\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\obj\Debug\Help.g.i.cs
+C:\Users\Shayan Anique\Desktop\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\obj\Debug\MainPage.g.i.cs
+C:\Users\Shayan Anique\Desktop\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\obj\Debug\SavedSounds.g.i.cs
+C:\Users\Shayan Anique\Desktop\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\obj\Debug\SoundRecorderWP7.g.resources
+C:\Users\Shayan Anique\Desktop\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\obj\Debug\SoundRecorderWP7.dll
+C:\Users\Shayan Anique\Desktop\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\obj\Debug\SoundRecorderWP7.pdb
+C:\Users\Shayan Anique\Desktop\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\obj\Debug\XapCacheFile.xml
+C:\Users\Shayan Anique\Desktop\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\SoundRecorder.xap
+D:\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\appbar.cancel.rest.png
+D:\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\ApplicationIcon.png
+D:\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\Background.png
+D:\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\Images\blank.png
+D:\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\Images\microphone.png
+D:\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\Images\play.png
+D:\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\Images\record.png
+D:\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\Images\speaker.png
+D:\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\Images\stop.png
+D:\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\SoundRecorderWP7.dll
+D:\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\SoundRecorderWP7.pdb
+D:\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\AppManifest.xaml
+D:\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\SoundRecorder.xap
+D:\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\Coding4Fun.Phone.Controls.dll
+D:\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\Coding4Fun.Phone.Controls.Toolkit.dll
+D:\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\Coding4Fun.Phone.Site.Controls.dll
+D:\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\obj\Debug\ResolveAssemblyReference.cache
+D:\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\obj\Debug\App.g.i.cs
+D:\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\obj\Debug\Help.g.i.cs
+D:\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\obj\Debug\MainPage.g.i.cs
+D:\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\obj\Debug\SavedSounds.g.i.cs
+D:\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\obj\Debug\SoundRecorderWP7.g.resources
+D:\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\obj\Debug\SoundRecorderWP7.dll
+D:\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\obj\Debug\SoundRecorderWP7.pdb
+D:\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\obj\Debug\XapCacheFile.xml
+D:\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\Microsoft.Advertising.Mobile.dll
+D:\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\Microsoft.Advertising.Mobile.UI.dll
+D:\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\Microsoft.Phone.Controls.dll
+D:\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\Microsoft.Advertising.Mobile.UI.xml
+D:\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\Microsoft.Phone.Controls.xml
+D:\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+D:\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\da-DK\Microsoft.Advertising.Mobile.resources.dll
+D:\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\de-DE\Microsoft.Advertising.Mobile.resources.dll
+D:\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\el-GR\Microsoft.Advertising.Mobile.resources.dll
+D:\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\en-GB\Microsoft.Advertising.Mobile.resources.dll
+D:\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\es-ES\Microsoft.Advertising.Mobile.resources.dll
+D:\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+D:\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+D:\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+D:\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\it-IT\Microsoft.Advertising.Mobile.resources.dll
+D:\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+D:\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+D:\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+D:\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+D:\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+D:\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+D:\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+D:\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+D:\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+D:\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+D:\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+D:\Windows Phone\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\obj\Debug\SoundRecorderWP7.csprojResolveAssemblyReference.cache
+D:\Windows Phone\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\obj\Debug\SoundRecorderWP7.g.resources
+D:\Windows Phone\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\obj\Debug\SoundRecorderWP7.dll
+D:\Windows Phone\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\obj\Debug\SoundRecorderWP7.pdb
+D:\Windows Phone\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\appbar.cancel.rest.png
+D:\Windows Phone\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\ApplicationIcon.png
+D:\Windows Phone\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\Background.png
+D:\Windows Phone\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\Images\blank.png
+D:\Windows Phone\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\Images\microphone.png
+D:\Windows Phone\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\Images\play.png
+D:\Windows Phone\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\Images\record.png
+D:\Windows Phone\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\Images\speaker.png
+D:\Windows Phone\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\Images\stop.png
+D:\Windows Phone\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\SoundRecorderWP7.dll
+D:\Windows Phone\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\SoundRecorderWP7.pdb
+D:\Windows Phone\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\AppManifest.xaml
+D:\Windows Phone\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\SoundRecorder.xap
+D:\Windows Phone\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\Coding4Fun.Phone.Controls.dll
+D:\Windows Phone\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\Coding4Fun.Phone.Controls.Toolkit.dll
+D:\Windows Phone\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\Coding4Fun.Phone.Site.Controls.dll
+D:\Windows Phone\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\Microsoft.Phone.Controls.dll
+D:\Windows Phone\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\Microsoft.Advertising.Mobile.UI.xml
+D:\Windows Phone\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\Microsoft.Phone.Controls.xml
+D:\Windows Phone\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+D:\Windows Phone\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\da-DK\Microsoft.Advertising.Mobile.resources.dll
+D:\Windows Phone\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\de-DE\Microsoft.Advertising.Mobile.resources.dll
+D:\Windows Phone\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\el-GR\Microsoft.Advertising.Mobile.resources.dll
+D:\Windows Phone\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\en-GB\Microsoft.Advertising.Mobile.resources.dll
+D:\Windows Phone\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\es-ES\Microsoft.Advertising.Mobile.resources.dll
+D:\Windows Phone\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+D:\Windows Phone\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+D:\Windows Phone\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+D:\Windows Phone\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\it-IT\Microsoft.Advertising.Mobile.resources.dll
+D:\Windows Phone\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+D:\Windows Phone\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+D:\Windows Phone\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+D:\Windows Phone\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+D:\Windows Phone\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+D:\Windows Phone\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+D:\Windows Phone\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+D:\Windows Phone\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+D:\Windows Phone\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+D:\Windows Phone\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+D:\Windows Phone\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Debug\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+D:\Windows Phone\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\obj\Debug\App.g.cs
+D:\Windows Phone\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\obj\Debug\Help.g.cs
+D:\Windows Phone\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\obj\Debug\MainPage.g.cs
+D:\Windows Phone\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\obj\Debug\SavedSounds.g.cs
+D:\Windows Phone\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\obj\Debug\XapCacheFile.xml

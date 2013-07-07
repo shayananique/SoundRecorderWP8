@@ -1,0 +1,137 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="SoundRecorderWP8.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" d:DesignWidth="480" d:DesignHeight="696"
+        xmlns:c4f="clr-namespace:Coding4Fun.Phone.Controls;assembly=Coding4Fun.Phone.Controls"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    shell:SystemTray.IsVisible="True" xmlns:my="clr-namespace:Microsoft.Advertising.Mobile.UI;assembly=Microsoft.Advertising.Mobile.UI">
+    <phone:PhoneApplicationPage.Resources>
+        <ControlTemplate x:Key="PhoneSimpleRepeatButton" TargetType="RepeatButton">
+            <Rectangle Fill="Transparent"/>
+        </ControlTemplate>
+        <ControlTemplate x:Key="PhoneSimpleThumb" TargetType="Thumb">
+            <Rectangle Fill="Transparent"/>
+        </ControlTemplate>
+        <Style x:Key="SliderStyle1" TargetType="Slider">
+            <Setter Property="BorderThickness" Value="0"/>
+            <Setter Property="BorderBrush" Value="Transparent"/>
+            <Setter Property="Maximum" Value="10"/>
+            <Setter Property="Minimum" Value="0"/>
+            <Setter Property="Value" Value="0"/>
+            <Setter Property="Background" Value="{StaticResource PhoneContrastBackgroundBrush}"/>
+            <Setter Property="Foreground" Value="{StaticResource PhoneAccentBrush}"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Slider">
+                        <Grid Background="Transparent">
+                            <VisualStateManager.VisualStateGroups>
+                                <VisualStateGroup x:Name="CommonStates">
+                                    <VisualState x:Name="Normal"/>
+                                    <VisualState x:Name="MouseOver"/>
+                                    <VisualState x:Name="Disabled">
+                                        <Storyboard>
+                                            <DoubleAnimation Duration="0" To="0.1" Storyboard.TargetProperty="Opacity" Storyboard.TargetName="HorizontalTrack"/>
+                                            <DoubleAnimation Duration="0" To="0.1" Storyboard.TargetProperty="Opacity" Storyboard.TargetName="VerticalTrack"/>
+                                            <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="Fill" Storyboard.TargetName="HorizontalFill">
+                                                <DiscreteObjectKeyFrame KeyTime="0" Value="{StaticResource PhoneDisabledBrush}"/>
+                                            </ObjectAnimationUsingKeyFrames>
+                                            <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="Fill" Storyboard.TargetName="VerticalFill">
+                                                <DiscreteObjectKeyFrame KeyTime="0" Value="{StaticResource PhoneDisabledBrush}"/>
+                                            </ObjectAnimationUsingKeyFrames>
+                                        </Storyboard>
+                                    </VisualState>
+                                </VisualStateGroup>
+                            </VisualStateManager.VisualStateGroups>
+                            <Grid x:Name="HorizontalTemplate" Margin="{StaticResource PhoneHorizontalMargin}">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="Auto"/>
+                                    <ColumnDefinition Width="0"/>
+                                    <ColumnDefinition Width="*"/>
+                                </Grid.ColumnDefinitions>
+                                <Rectangle x:Name="HorizontalTrack" Grid.ColumnSpan="3" Fill="{TemplateBinding Background}" IsHitTestVisible="False" Margin="0,22,0,24" Opacity="0.2" d:LayoutOverrides="VerticalAlignment"/>
+                                <Rectangle x:Name="HorizontalFill" Grid.Column="0" Fill="{TemplateBinding Foreground}" IsHitTestVisible="False" Margin="0,22,0,24" d:LayoutOverrides="VerticalAlignment"/>
+                                <RepeatButton x:Name="HorizontalTrackLargeChangeDecreaseRepeatButton" Grid.Column="0" IsTabStop="False" Template="{StaticResource PhoneSimpleRepeatButton}"/>
+                                <RepeatButton x:Name="HorizontalTrackLargeChangeIncreaseRepeatButton" Grid.Column="2" IsTabStop="False" Template="{StaticResource PhoneSimpleRepeatButton}"/>
+                                <Thumb x:Name="HorizontalThumb" Grid.Column="1" Margin="-1,0,0,0" RenderTransformOrigin="0.5,0.5" Template="{StaticResource PhoneSimpleThumb}" Width="1">
+                                    <Thumb.RenderTransform>
+                                        <ScaleTransform ScaleY="1" ScaleX="32"/>
+                                    </Thumb.RenderTransform>
+                                </Thumb>
+                            </Grid>
+                            <Grid x:Name="VerticalTemplate" Margin="{StaticResource PhoneVerticalMargin}">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="*"/>
+                                    <RowDefinition Height="0"/>
+                                    <RowDefinition Height="Auto"/>
+                                </Grid.RowDefinitions>
+                                <Rectangle x:Name="VerticalTrack" Fill="{TemplateBinding Background}" IsHitTestVisible="False" Margin="12,0" Opacity="0.2" Grid.RowSpan="3" Width="12"/>
+                                <Rectangle x:Name="VerticalFill" Fill="{TemplateBinding Foreground}" IsHitTestVisible="False" Margin="12,0" Grid.Row="2" Width="12"/>
+                                <RepeatButton x:Name="VerticalTrackLargeChangeDecreaseRepeatButton" IsTabStop="False" Grid.Row="0" Template="{StaticResource PhoneSimpleRepeatButton}"/>
+                                <RepeatButton x:Name="VerticalTrackLargeChangeIncreaseRepeatButton" IsTabStop="False" Grid.Row="2" Template="{StaticResource PhoneSimpleRepeatButton}"/>
+                                <Thumb x:Name="VerticalThumb" Height="1" Margin="0,-1,0,0" Grid.Row="1" RenderTransformOrigin="0.5,0.5" Template="{StaticResource PhoneSimpleThumb}">
+                                    <Thumb.RenderTransform>
+                                        <ScaleTransform ScaleY="32" ScaleX="1"/>
+                                    </Thumb.RenderTransform>
+                                </Thumb>
+                            </Grid>
+                        </Grid>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        <Style x:Name="AppBarText" TargetType="ContentControl">
+            <Setter Property="HorizontalAlignment" Value="Center"/>
+            <Setter Property="Margin" Value="0"/>
+            <Setter Property="Padding" Value="0"/>
+        </Style>
+
+    </phone:PhoneApplicationPage.Resources>
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel x:Name="MainPanel" Grid.Row="0" Margin="12,17,0,28">
+            <TextBlock x:Name="ApplicationTitle" Text="Sound Recorder" Style="{StaticResource PhoneTextNormalStyle}"/>
+            <TextBlock x:Name="UserHelp" Text="record or load" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}" Height="200" />
+        </StackPanel>
+        <Image x:Name="StatusImage" Height="191" Width="202" 
+               HorizontalAlignment="Center" VerticalAlignment="Center"
+               Source="Images/blank.png" Margin="144,243,134,262" Grid.RowSpan="2" />
+        <Slider ValueChanged="slider1_ValueChanged" Grid.Row="1" Height="90" HorizontalAlignment="Left" Margin="12,260,0,0" Name="slider1" VerticalAlignment="Top" Width="394" Minimum="-0.8" Maximum="0.9" Style="{StaticResource SliderStyle1}" />
+        <c4f:RoundButton Click="RoundButton_Click" HorizontalAlignment="Right" Margin="0,0,0,88" Grid.Row="1" VerticalAlignment="Bottom" Width="68" Height="65">
+            <c4f:RoundButton.Background>
+                <ImageBrush ImageSource="appbar.cancel.rest.png" Stretch="Fill"/>
+            </c4f:RoundButton.Background>
+        </c4f:RoundButton>
+       
+    </Grid>
+
+    <phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True">
+            <shell:ApplicationBar.MenuItems>
+                <shell:ApplicationBarMenuItem x:Name="navigateToSavedSounds" Text="saved sounds" Click="navigateToSavedSoundsMenuItem_Click"/>
+                <shell:ApplicationBarMenuItem x:Name="help" Text="help" Click="helpMenuItem_Click"/>
+                <shell:ApplicationBarMenuItem x:Name="about" Text="about" Click="aboutMenuItem_Click"/>
+            </shell:ApplicationBar.MenuItems>
+            <shell:ApplicationBar.Buttons>
+                <shell:ApplicationBarIconButton  Text="record" IconUri="/Images/record.png" Click="recordButton_Click" IsEnabled="True"/>
+                <shell:ApplicationBarIconButton  Text="play" IconUri="/Images/play.png" Click="playButton_Click" IsEnabled="False"/>
+                <shell:ApplicationBarIconButton  Text="save" IconUri="/icons/appbar.save.rest.png" Click="saveButton_Click" IsEnabled="False"/>
+            </shell:ApplicationBar.Buttons>
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>
+
+</phone:PhoneApplicationPage>

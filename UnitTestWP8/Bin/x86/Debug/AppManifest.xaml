@@ -1,0 +1,8 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="UnitTestWP8" EntryPointType="UnitTestWP8.App" RuntimeVersion="4.7.50308.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="UnitTestWP8" Source="UnitTestWP8.dll" />
+    <AssemblyPart x:Name="Microsoft.VisualStudio.TestPlatform.Core" Source="Microsoft.VisualStudio.TestPlatform.Core.dll" />
+    <AssemblyPart x:Name="Microsoft.VisualStudio.TestPlatform.TestExecutor.Core" Source="Microsoft.VisualStudio.TestPlatform.TestExecutor.Core.dll" />
+    <AssemblyPart x:Name="Microsoft.VisualStudio.TestPlatform.UnitTestFramework" Source="Microsoft.VisualStudio.TestPlatform.UnitTestFramework.dll" />
+  </Deployment.Parts>
+</Deployment>

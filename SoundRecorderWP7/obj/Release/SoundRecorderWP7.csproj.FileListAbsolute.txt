@@ -1,0 +1,52 @@
+C:\Users\Shayan Anique\Desktop\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Shayan Anique\Desktop\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\obj\Release\App.g.i.cs
+C:\Users\Shayan Anique\Desktop\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\obj\Release\Help.g.i.cs
+C:\Users\Shayan Anique\Desktop\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\obj\Release\MainPage.g.i.cs
+C:\Users\Shayan Anique\Desktop\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\obj\Release\SavedSounds.g.i.cs
+C:\Users\Shayan Anique\Desktop\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\obj\Release\SoundRecorderWP7.g.resources
+C:\Users\Shayan Anique\Desktop\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Release\appbar.cancel.rest.png
+C:\Users\Shayan Anique\Desktop\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Release\ApplicationIcon.png
+C:\Users\Shayan Anique\Desktop\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Release\Background.png
+C:\Users\Shayan Anique\Desktop\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Release\Images\blank.png
+C:\Users\Shayan Anique\Desktop\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Release\Images\microphone.png
+C:\Users\Shayan Anique\Desktop\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Release\Images\play.png
+C:\Users\Shayan Anique\Desktop\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Release\Images\record.png
+C:\Users\Shayan Anique\Desktop\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Release\Images\speaker.png
+C:\Users\Shayan Anique\Desktop\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Release\Images\stop.png
+C:\Users\Shayan Anique\Desktop\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Release\SoundRecorderWP7.dll
+C:\Users\Shayan Anique\Desktop\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Release\SoundRecorderWP7.pdb
+C:\Users\Shayan Anique\Desktop\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Release\AppManifest.xaml
+C:\Users\Shayan Anique\Desktop\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Release\Coding4Fun.Phone.Controls.dll
+C:\Users\Shayan Anique\Desktop\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Release\Coding4Fun.Phone.Controls.Toolkit.dll
+C:\Users\Shayan Anique\Desktop\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Release\Coding4Fun.Phone.Site.Controls.dll
+C:\Users\Shayan Anique\Desktop\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\obj\Release\SoundRecorderWP7.dll
+C:\Users\Shayan Anique\Desktop\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\obj\Release\SoundRecorderWP7.pdb
+C:\Users\Shayan Anique\Desktop\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\obj\Release\XapCacheFile.xml
+C:\Users\Shayan Anique\Desktop\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Release\SoundRecorder.xap
+D:\Windows Phone\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\obj\Release\SoundRecorderWP7.csprojResolveAssemblyReference.cache
+D:\Windows Phone\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\obj\Release\App.g.cs
+D:\Windows Phone\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\obj\Release\Help.g.cs
+D:\Windows Phone\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\obj\Release\MainPage.g.cs
+D:\Windows Phone\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\obj\Release\SavedSounds.g.cs
+D:\Windows Phone\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\obj\Release\SoundRecorderWP7.g.resources
+D:\Windows Phone\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\obj\Release\SoundRecorderWP7.dll
+D:\Windows Phone\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\obj\Release\SoundRecorderWP7.pdb
+D:\Windows Phone\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Release\appbar.cancel.rest.png
+D:\Windows Phone\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Release\ApplicationIcon.png
+D:\Windows Phone\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Release\Background.png
+D:\Windows Phone\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Release\Images\blank.png
+D:\Windows Phone\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Release\Images\microphone.png
+D:\Windows Phone\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Release\Images\play.png
+D:\Windows Phone\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Release\Images\record.png
+D:\Windows Phone\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Release\Images\speaker.png
+D:\Windows Phone\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Release\Images\stop.png
+D:\Windows Phone\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Release\SoundRecorderWP7.dll
+D:\Windows Phone\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Release\SoundRecorderWP7.pdb
+D:\Windows Phone\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Release\AppManifest.xaml
+D:\Windows Phone\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Release\Coding4Fun.Phone.Controls.dll
+D:\Windows Phone\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Release\Coding4Fun.Phone.Controls.Toolkit.dll
+D:\Windows Phone\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Release\Coding4Fun.Phone.Site.Controls.dll
+D:\Windows Phone\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Release\Microsoft.Phone.Controls.dll
+D:\Windows Phone\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\obj\Release\XapCacheFile.xml
+D:\Windows Phone\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Release\Properties\WMAppManifest.xml
+D:\Windows Phone\New Projects\SOUND Recorder\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\SoundRecorderWP7\Bin\Release\SoundRecorderWP7_Release_AnyCPU.xap
