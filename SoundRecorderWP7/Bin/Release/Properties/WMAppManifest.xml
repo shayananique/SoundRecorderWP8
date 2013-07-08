@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Deployment xmlns="http://schemas.microsoft.com/windowsphone/2012/deployment" AppPlatformVersion="8.0">
   <DefaultLanguage xmlns="" code="en" />
-  <App xmlns="" ProductID="{72b5bc82-262a-4fdb-8963-e3c3dc30f788}" Title="SOUND Recorder" RuntimeType="Silverlight" Version="1.0.1.0" Genre="apps.normal" Author="Shayan Anique" Description="use this little utility to record your sound" Publisher="Shayan Anique" PublisherID="{98a25650-7029-4f49-af78-b8a8ce50ed7f}">
+  <App xmlns="" ProductID="{72b5bc82-262a-4fdb-8963-e3c3dc30f788}" Title="SOUND Recorder" RuntimeType="Silverlight" Version="1.0.1.0" Genre="apps.normal" Author="Shayan Anique" Description="" Publisher="Shayan Anique" PublisherID="{98a25650-7029-4f49-af78-b8a8ce50ed7f}">
     <IconPath IsRelative="true" IsResource="false">ApplicationIcon.png</IconPath>
     <Capabilities>
       <Capability Name="ID_CAP_MICROPHONE" />

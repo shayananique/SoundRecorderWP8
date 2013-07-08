@@ -10,8 +10,11 @@
     <AssemblyPart x:Name="Coding4Fun.Phone.Controls.Toolkit" Source="Coding4Fun.Phone.Controls.Toolkit.dll" />
     <AssemblyPart x:Name="Coding4Fun.Phone.Site.Controls" Source="Coding4Fun.Phone.Site.Controls.dll" />
     <AssemblyPart x:Name="Google.AdMob.Ads.WindowsPhone7" Source="Google.AdMob.Ads.WindowsPhone7.dll" />
+    <AssemblyPart x:Name="Microsoft.Advertising.Mobile" Source="Microsoft.Advertising.Mobile.dll" />
+    <AssemblyPart x:Name="Microsoft.Advertising.Mobile.UI" Source="Microsoft.Advertising.Mobile.UI.dll" />
     <AssemblyPart x:Name="Microsoft.Phone.Controls" Source="Microsoft.Phone.Controls.dll" />
     <AssemblyPart x:Name="Microsoft.Phone.Controls.Toolkit" Source="Microsoft.Phone.Controls.Toolkit.dll" />
     <AssemblyPart x:Name="SilverlightMicrophoneSample" Source="SilverlightMicrophoneSample.dll" />
+    <AssemblyPart x:Name="Microsoft.Phone.Controls.Maps" Source="Microsoft.Phone.Controls.Maps.dll" />
   </Deployment.Parts>
 </Deployment>
